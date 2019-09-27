@@ -115,4 +115,4 @@
 
 - [yurunsoft/pay-sdk](https://github.com/Yurunsoft/PaySDK) 支持 Swoole 协程的支付宝/微信支付SDK
 - [yurunsoft/yurun-oauth-login](https://github.com/Yurunsoft/YurunOAuthLogin) 支持 Swoole 协程的第三方登录授权 SDK（QQ、微信、微博、Github、Gitee等）
-
+- [lamplife/ikcrm](https://github.com/lamplife/ikcrm) 支持 Hyperf 的爱客CRM组件
